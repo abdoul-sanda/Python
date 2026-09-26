@@ -1,3 +1,6 @@
+### L'utilisateur est prié de rentrer un chiffre compris entre 1 et 10 et le programme affiche la table de multiplication du nombre entré
+
+
 n = int(input("Entrez un entier naturel n  compris entre 1 et 10 : "))
 
 while n < 1 or n > 10 :

@@ -1,3 +1,6 @@
+### L'utilisateur entre 3 entiers et le programme en sort le maximum et le minimum 
+
+
 x = int (input("Entrez un entier x :"))
 y = int (input ("Entrez un second entier y:"))
 z = int (input ("Entrez un troisième entier z :"))

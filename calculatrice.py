@@ -1,3 +1,6 @@
+### Une calculatrice simple écrite en python
+
+
 
 x= int(input("Entrez un entier svp:"))
 
