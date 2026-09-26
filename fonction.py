@@ -1,4 +1,5 @@
 def area(l):
     return l**2
 
-print("L'aire du carré est:", area(5))  
+l = int(input(Entrez la longueur du côté du carré:))
+print("L'aire du carré est:", area(l))  
